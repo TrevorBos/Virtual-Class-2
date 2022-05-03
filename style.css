@@ -1,0 +1,23 @@
+.title {
+    color: blue;
+}
+
+.bio {
+    background-color: burlywood;
+    color:black;
+}
+
+#email {
+    background-color: greenyellow;
+    color:black;
+}
+
+#github {
+    background-color: rgb(226, 193, 84);
+    color: black;
+}
+
+#portfolio {
+    background-color: greenyellow;
+    color: black;
+}
